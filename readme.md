@@ -10,5 +10,6 @@ This is an example to show different parts.
 THis will help in making websites
 
 #Deployment
+Add to index
 
 ##How to contribute

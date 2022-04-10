@@ -7,6 +7,7 @@ showing how to use Git and Github
 This is an example to show different parts.
 
 ##Purpose
+THis will help in making websites
 
 #Deployment
 
